@@ -8,4 +8,5 @@
 
 ## 在win10上安装Ubuntu 终端
 [install Ubuntu on Windows 10](https://tutorials.ubuntu.com/tutorial/tutorial-ubuntu-on-windows#1)
+
 [使用Windows 10的新Bash Shell可以做的一切](https://www.howtogeek.com/265900/everything-you-can-do-with-windows-10s-new-bash-shell/)
