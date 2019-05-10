@@ -27,7 +27,7 @@ ctrl + shift + up  当前行上移(如果上行有代码,则交换两行代码)
 
 ctrl + home 移动到文章最后
 
-ctrl + x 删除当前行
+ctrl + x 或 删除当前行
  
 ctrl + l 选中当前行
 ```
