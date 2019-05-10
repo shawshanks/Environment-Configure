@@ -24,6 +24,8 @@ ctrl+up滚动行
 ctrl+down滚动行
 
 ctrl + shift + up  当前行上移(如果上行有代码,则交换两行代码)
+
+ctrl + home 移动到文章最后
 ```
    
   
