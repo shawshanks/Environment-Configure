@@ -13,3 +13,5 @@
 [Win10中内置Linux更换阿里源](https://blog.csdn.net/lu900618/article/details/74955065)
 
 [使用Windows 10的新Bash Shell可以做的一切](https://www.howtogeek.com/265900/everything-you-can-do-with-windows-10s-new-bash-shell/)
+
+[How to Access Your Ubuntu Bash Files in Windows (and Your Windows System Drive in Bash)](https://www.howtogeek.com/261383/how-to-access-your-ubuntu-bash-files-in-windows-and-your-windows-system-drive-in-bash/)
