@@ -15,3 +15,5 @@
 [使用Windows 10的新Bash Shell可以做的一切](https://www.howtogeek.com/265900/everything-you-can-do-with-windows-10s-new-bash-shell/)
 
 [How to Access Your Ubuntu Bash Files in Windows (and Your Windows System Drive in Bash)](https://www.howtogeek.com/261383/how-to-access-your-ubuntu-bash-files-in-windows-and-your-windows-system-drive-in-bash/)
+
+[WSL 配置指北：打造 Windows 最强命令行](https://blessing.studio/wsl-guide/)
