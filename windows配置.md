@@ -17,3 +17,4 @@
 [How to Access Your Ubuntu Bash Files in Windows (and Your Windows System Drive in Bash)](https://www.howtogeek.com/261383/how-to-access-your-ubuntu-bash-files-in-windows-and-your-windows-system-drive-in-bash/)
 
 [WSL 配置指北：打造 Windows 最强命令行](https://blessing.studio/wsl-guide/)
+[Setting up Windows Subsystem for Linux with zsh + oh-my-zsh + ConEmu](https://blog.joaograssi.com/windows-subsystem-for-linux-with-oh-my-zsh-conemu/)
