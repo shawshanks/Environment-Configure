@@ -1,3 +1,6 @@
+
+sublime document
+http://www.sublimetext.com/docs/3/
 ## 常用快捷键
 
 ### 视图切换及关闭
