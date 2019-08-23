@@ -1,6 +1,11 @@
 
 sublime document
 http://www.sublimetext.com/docs/3/
+
+插件 
+[PlainTasks](https://github.com/aziz/PlainTasks)
+
+plainTasks 主题插件  https://github.com/Gregory-K/PlainTasks-Material-Themes
 ## 常用快捷键
 
 ### 视图切换及关闭
