@@ -1,3 +1,5 @@
+<a href="https://support.microsoft.com/zh-cn/help/12445/windows-keyboard-shortcuts">Windows 中的键盘快捷方式</a>
+
 ## Alt
 Alt + Enter (或 鼠标左键）  查看所选项目的属性  
 Alt+F4                      关闭当前程序  
