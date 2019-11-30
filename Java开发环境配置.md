@@ -22,3 +22,10 @@ java 文件名（无任何后缀）
 [Sublime Text3直接编译C、java、C++程序](https://blog.csdn.net/meiqi0538/article/details/83018495)
 
 [sublime配置java运行环境](https://www.jianshu.com/p/bd860d8fd1b8)
+
+
+### problem
+1. 问题显示
+ 运行`javac ...`时 显示 ???
+2. 问题排查
+ 
